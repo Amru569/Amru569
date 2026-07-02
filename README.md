@@ -3,14 +3,14 @@
 <h1>Hi 👋, I'm Amrutha</h1>
 <h3>AI Engineer | Full Stack Developer | Final-Year B.Tech (AI & Data Science)</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;ML+%2B+Full+Stack+Developer;Turning+Data+into+Decisions;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4169E1&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;ML+%2B+Full+Stack+Developer;Turning+Data+into+Decisions;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://www.linkedin.com/in/amrutha-jaganathan-40b384297">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:amruthajaganathanjaganathan@gmail.com">
+<a href="mailto:amrutha.j.lifemesh@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://portfolio-amru.lovable.app/">
@@ -22,8 +22,8 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Amru569&label=Profile%20Views&color=6c63ff&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/Amru569?label=Followers&style=for-the-badge&color=6c63ff" />
+<img src="https://komarev.com/ghpvc/?username=Amru569&label=Profile%20Views&color=4169e1&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/Amru569?label=Followers&style=for-the-badge&color=4169e1" />
 
 ---
 
@@ -35,7 +35,7 @@
 🚀 Currently building **AIOP** — an Adaptive Intelligent Optimization Platform<br/>
 🌱 Exploring recommendation systems, LLM-powered applications, and modern full-stack frameworks<br/>
 🩰 Passionate about **Bharatanatyam** and Indian classical arts — I also design event materials for cultural performances<br/>
-📫 Reach me at: **amruthajaganathanjaganathan@gmail.com**
+📫 Reach me at: **amrutha.j.lifemesh@gmail.com**
 
 ---
 
@@ -69,16 +69,16 @@
 
 ### 🤖 AI / ML Skills
 
-<img src="https://img.shields.io/badge/-Machine%20Learning-6C63FF?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/-Deep%20Learning-6C63FF?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/-Machine%20Learning-4169E1?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/-Deep%20Learning-4169E1?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square" />
 <img src="https://img.shields.io/badge/-Gemini%20AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/-RAG-6C63FF?style=flat-square" />
-<img src="https://img.shields.io/badge/-NLP-6C63FF?style=flat-square" />
-<img src="https://img.shields.io/badge/-LSTM-6C63FF?style=flat-square" />
-<img src="https://img.shields.io/badge/-Prompt%20Engineering-6C63FF?style=flat-square" />
-<img src="https://img.shields.io/badge/-AI%20Agents-6C63FF?style=flat-square" />
+<img src="https://img.shields.io/badge/-RAG-4169E1?style=flat-square" />
+<img src="https://img.shields.io/badge/-NLP-4169E1?style=flat-square" />
+<img src="https://img.shields.io/badge/-LSTM-4169E1?style=flat-square" />
+<img src="https://img.shields.io/badge/-Prompt%20Engineering-4169E1?style=flat-square" />
+<img src="https://img.shields.io/badge/-AI%20Agents-4169E1?style=flat-square" />
 
 ---
 
@@ -150,7 +150,7 @@
 <a href="https://www.linkedin.com/in/amrutha-jaganathan-40b384297">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:amruthajaganathanjaganathan@gmail.com">
+<a href="mailto:amrutha.j.lifemesh@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://portfolio-amru.lovable.app/">
@@ -161,6 +161,6 @@
 
 <i>"The best way to predict the future is to build it."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=100&section=footer" />
 
 </div>
