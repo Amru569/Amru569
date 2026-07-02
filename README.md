@@ -108,26 +108,27 @@
       <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
     </td>
     <td width="50%">
-      <h4>🎬 ClipForge AI</h4>
-      <p>A B2B short-form video generator frontend redesign built in Next.js 14, featuring a dark glassmorphism UI with Framer Motion animations.</p>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+      <h4>🤖 Agentic Chatbot for EduReach College Platform</h4>
+      <p>An AI-powered college admission counseling platform with a Gemini + LangChain chatbot that answers student queries on courses, fees, placements, and admissions, backed by JWT auth and MongoDB.</p>
+      <a href="https://agentic-chatbot-for-edureach-platform-9sea-gtxsjk7ie.vercel.app">🌐 Live Demo</a>
+      <br/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h4>💳 Bank Statement Categorization Tool</h4>
-      <p>Processes months of UPI and mobile banking transactions using a custom merchant-to-category ruleset for automated expense categorization.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-    </td>
-    <td width="50%">
-      <h4>💼 Developer Portfolio</h4>
-      <p>A full portfolio website built with Next.js 14, TypeScript, Tailwind CSS, and Framer Motion in a dark glassmorphism aesthetic, deployed on Vercel.</p>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+    <td colspan="2">
+      <h4>📄 ATS Resume Analyzer</h4>
+      <p>An AI-powered ATS resume analyzer that scores resumes against job descriptions, extracts and compares keywords, flags missing skills, and generates optimization tips and bullet-point improvements using Gemini AI.</p>
+      <a href="https://ats-resume-analyzer-446w.vercel.app/">🌐 Live Demo</a>
+      <br/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
     </td>
   </tr>
 </table>
