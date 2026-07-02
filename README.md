@@ -35,7 +35,7 @@
 🚀 Currently building **AIOP** — an Adaptive Intelligent Optimization Platform<br/>
 🌱 Exploring recommendation systems, LLM-powered applications, and modern full-stack frameworks<br/>
 🩰 Passionate about **Bharatanatyam** and Indian classical arts — I also design event materials for cultural performances<br/>
-📫 Reach me at: **amrutha.j.lifemesh@gmail.com**
+📫 Reach me at: **amruthajaganathanjaganathan@gmail.com**
 
 ---
 
