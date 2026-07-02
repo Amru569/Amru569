@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/amruthajaganathan/">
+  <a href="https://www.linkedin.com/in/amruthaj/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:amruthajaganathanjaganathan@gmail.com">
@@ -161,7 +161,7 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/amruthajaganathan/">
+  <a href="https://www.linkedin.com/in/amruthaj/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:amruthajaganathanjaganathan@gmail.com">
