@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Hi 👋, I'm Amrutha</h1>
-<h3>AI Engineer | Full Stack Developer | Final-Year B.Tech (AI & Data Science)</h3>
+<h3>AI Engineer | Full Stack Developer |</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4169E1&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;ML+%2B+Full+Stack+Developer;Turning+Data+into+Decisions;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
