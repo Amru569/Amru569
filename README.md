@@ -29,13 +29,13 @@
 
 ### 👩‍💻 About Me
 
-🎓 Final-year **B.Tech in Artificial Intelligence and Data Science**, Chennai, India<br/>
+🎓 Completed **B.Tech in Artificial Intelligence and Data Science**,RIT, Chennai, India<br/>
 🧠 ML Engineer Intern @ **Larsen & Toubro Values Ltd**<br/>
 💻 Software Developer Intern @ **VR Green Pvt. Ltd**<br/>
 🚀 Currently building **AIOP** — an Adaptive Intelligent Optimization Platform<br/>
 🌱 Exploring recommendation systems, LLM-powered applications, and modern full-stack frameworks<br/>
 🩰 Passionate about **Bharatanatyam** and Indian classical arts — I also design event materials for cultural performances<br/>
-📫 Reach me at: **amrutha.j.lifemesh@gmail.com**
+📫 Reach me at: **amruthajaganathanjaganathan@gmail.com**
 
 ---
 
@@ -161,7 +161,7 @@
 <a href="https://www.linkedin.com/in/amrutha-jaganathan-40b384297">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:amrutha.j.lifemesh@gmail.com">
+<a href="mailto:amruthajaganathanjaganathan@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://portfolio-amru.lovable.app/">
