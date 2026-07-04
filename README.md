@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 <h1>Hi 👋, I'm Amrutha</h1>
@@ -96,6 +97,21 @@
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
     </td>
+
+    <td width="50%" align="center">
+      <h4>🤖 Cognitive AI</h4>
+      <p>An enterprise-grade AI knowledge assistant that enables intelligent document understanding through Retrieval-Augmented Generation (RAG). Users can upload documents, chat with their knowledge base using Gemini AI, and receive context-aware responses with conversational memory, semantic search, and a modern Streamlit interface.</p>
+      <a href="https://github.com/Amru569/Cognitive-AI">🔗 Repository</a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+      <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square" />
+    </td>
+  </tr>
+
+  <tr>
     <td width="50%" align="center">
       <h4>🤖 Agentic Chatbot for EduReach College Platform</h4>
       <p>An AI-powered college admission counseling platform with a Gemini + LangChain chatbot that answers student queries on courses, fees, placements, and admissions, backed by JWT auth and MongoDB.</p>
@@ -108,9 +124,8 @@
       <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
+
+    <td width="50%" align="center">
       <h4>📄 ATS Resume Analyzer</h4>
       <p>An AI-powered ATS resume analyzer that scores resumes against job descriptions, extracts and compares keywords, flags missing skills, and generates optimization tips and bullet-point improvements using Gemini AI.</p>
       <a href="https://ats-resume-analyzer-446w.vercel.app/">🌐 Live Demo</a> ·
@@ -164,3 +179,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=100&section=footer" />
 
 </div>
+```
