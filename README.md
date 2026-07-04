@@ -142,18 +142,7 @@
 🏆 **Nov 2023** — Published a Data Mining conference paper at an international conference in Uzbekistan → [View Paper](https://doi.org/10.59670/ml.v20iS13.6462)<br/>
 🏆 **March 2025** — Published *"Emerging Cyber Threats in the Quantum Era"* conference paper at an international conference in Dubai → [View Paper](https://doi.org/10.1007/978-981-96-9245-3_3)
 
----
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Amru569&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amru569&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amru569&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amru569&theme=tokyo-night&hide_border=true" width="98%" />
-
----
 
 ### 📫 Let's Connect
 
